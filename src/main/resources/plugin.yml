@@ -1,0 +1,4 @@
+name: IndianPoker
+version: ${project.version}
+main: indianpoker.indianpoker.IndianPoker
+api-version: 1.16
